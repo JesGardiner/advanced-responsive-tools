@@ -87,28 +87,28 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 700px) {
     h1 {
         font-size: 48px;
         line-height: 1.5;
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 700px) {
     h2 {
         font-size: 32px;
         text-align: center;
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 700px) {
     h3 {
-        font-size: 32px;
+        font-size: 28px;
         text-align: center;
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 700px) {
     p {
         text-align: center;
     }
